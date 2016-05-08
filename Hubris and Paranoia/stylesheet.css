@@ -19,3 +19,7 @@ p { font-size: 20px; }
 #lyrics {
 	font-size: 18px;
 }
+
+#caption {
+	color: #8C8C8C;
+}
